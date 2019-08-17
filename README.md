@@ -4,5 +4,6 @@ Keylogger for Linux Operating Systems
 
 ### How to run
 
-`gcc keylogger -o key`
-`./key`
+1. `gcc keylogger -o key`
+
+2. `./key`
